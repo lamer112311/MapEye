@@ -62,6 +62,7 @@ def banner():
         ┃┃     ╭━╯┃
         ╰╯     ╰━━╯ ''' + W)
 	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'Mr. Bee')
+	print('Подпишитесь на канал @Cyber_Puffin!')
 	print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
 
 def ver_check():
